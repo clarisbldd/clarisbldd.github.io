@@ -22,7 +22,3 @@ Multi-page personal portfolio website built with HTML, CSS, and JavaScript.
 5. Property Rental DApp
 6. CCNails
 7. MQueen
-
-KKN is not presented as a project. The KKN experience is listed under the Education page together with organizational experience.
-
-Project cards and detail pages use the actual screenshots supplied for each project, not screenshots of this portfolio.
